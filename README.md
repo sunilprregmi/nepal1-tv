@@ -1,5 +1,12 @@
 # Nepal1 TV - Unofficial Website
-This is an unofficial website for Nepal 1 TV, providing a platform for viewers to access Nepali news, entertainment, and culture.
+
+This is an **unofficial website** for Nepal 1 TV, providing a modern platform for viewers to access Nepali news, entertainment, and culture.
+
+I started this project because, while **Nepal 1 TV's transmission is still live**, their official website hasn't been updated since **2008**.
+
+The original site was last mirrored on August 9, 2008 from nepal1tv.com.
+
+The initial website, created in **2003**, was developed by **Dreams & Ideas**, a service provider specializing in Web, Print, and Multimedia.
 
 ## Project Status
 🚧 **Work in Progress**  
