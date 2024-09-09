@@ -36,6 +36,14 @@ Coming soon!
 ## Live Preview
 Coming soon!
 
+### Information Sources:
+- **JioTV**
+- **JioEPG**
+- **YuppTV**
+- **Wikipedia**
+- [Official Website of Nepal 1 TV](http://www.nepal1tv.net/)
+
 ## License
 
-This project is for educational and personal purposes only and is not affiliated with or endorsed by **Nepal 1 TV**.
+This project is for educational and personal purposes only and is **not affiliated with or endorsed by Nepal 1 TV**. However, if Nepal 1 TV wishes to use this project as their official website, they are welcome to do so.
+
