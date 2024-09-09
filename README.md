@@ -43,12 +43,12 @@ Coming soon!
 ## Live Preview
 Coming soon!
 
-### Information Sources:
-- **JioTV**
-- **JioEPG**
-- **YuppTV**
-- **Wikipedia**
-- [Official Website of Nepal 1 TV](http://www.nepal1tv.net/)
+### Current Information Sources:
+- **[JioTV](https://www.jiotv.com/)**
+- **[JioEPG (unofficial)](https://github.com/mitthu786/tvepg)**
+- **[YuppTV](https://www.yupptv.com/channels/nepal1-tv/live)**
+- **[Wikipedia](https://en.wikipedia.org/wiki/Nepal_1)**
+- **[Official Website of Nepal 1 TV](http://www.nepal1tv.net/)**
 
 ## License
 
